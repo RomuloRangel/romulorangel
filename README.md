@@ -1,7 +1,7 @@
 <h1>Olá 👋, sou Rômulo Rangel</h1>
 <h4 Apaixonado pelo mundo de Data (análise e ciência de dados)</h4>
 
-- 🔭 sou atualmente trabalhando em **estudando python com foco em ciência de dados**
+- 🔭 sou atualmente **estudando python com foco em ciência de dados**
 
 - 🌱 Atualmente estou aprendendo **Python, processamento de dados e bibliotecas de aprendizado de máquina.**
 
